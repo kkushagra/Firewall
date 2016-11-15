@@ -1,4 +1,4 @@
-Firewall Kernel Module
+*Firewall Kernel Module*
 
 Files: 
     firewall.c, Makefile
